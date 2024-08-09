@@ -1,0 +1,20 @@
+* {
+
+}
+.halaman {
+  height: 800;
+  text-align: end;
+ word-spacing: 10px;
+
+}
+h2 {
+    color: blue;
+}
+
+li {
+ font-style: italic;
+}
+
+h1 {
+    background-color: blueviolet;
+}
